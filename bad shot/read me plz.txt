@@ -1,0 +1,40 @@
+how to download bad shot
+
+not for school!
+
+Download Python:
+
+Visit the official Python website: https://www.python.org/downloads/.
+Download the latest version of Python (Python 3.x) for your operating system (Windows).
+Run the installer and make sure to check the box that says "Add Python to PATH" before clicking "Install Now".
+Install Pygame:
+
+Open the Command Prompt (Windows key + R, then type cmd and press Enter).
+In the Command Prompt, type the following command and press Enter:
+Copy code
+pip install pygame
+This will install Pygame on your system, which is required to run the game.
+Download and Set Up the Game:
+
+Go to the folder where the "Bad Shot" game files are located.
+Look for the "bad shot" folder containing the game’s Python files.
+Copy the "bad shot" folder into C:\Program Files (x86) 
+Create a Shortcut:
+
+Inside the "bad shot" folder, locate the main Python script (often named something like badshot.py).
+Right-click the Python script and select "Create Shortcut".
+Drag the shortcut to your Desktop.
+Run the Game:
+
+To run the game, double-click the shortcut on your Desktop.
+If everything is set up correctly, the game will open and you can start playing.
+Troubleshooting:
+
+If you get an error about missing Python or missing Pygame, make sure that you’ve installed Python 3.x and Pygame properly, and that they are added to your system’s PATH.
+You can check if Python is installed by typing python --version in the Command Prompt.
+You can check if Pygame is installed by typing python -m pygame.examples.aliens in the Command Prompt (this should run a small test game if Pygame is working).
+
+HAVE FUN =)
+
+btw i by law own this game
+read the EULA
